@@ -60,6 +60,7 @@ const checkWinner = (compMove, userMove) => {
 ```
 
 ==========================================================================
+
 ##🛠 Technologies Used
 
    ` HTML5
@@ -70,6 +71,7 @@ const checkWinner = (compMove, userMove) => {
 
 
 ============================================================================
+
 ##🚀 How to Run Locally
 
 1) Clone the repository:
@@ -77,6 +79,7 @@ const checkWinner = (compMove, userMove) => {
 
 
 ============================================================================
+
 ##🙋‍♂️ Author
 
 Harsh Singh

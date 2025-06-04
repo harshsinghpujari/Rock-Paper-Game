@@ -59,6 +59,7 @@ const checkWinner = (compMove, userMove) => {
 };
 ```
 
+=========================================================================================================
 ##🛠 Technologies Used
 
    ` HTML5
@@ -68,18 +69,21 @@ const checkWinner = (compMove, userMove) => {
    ` JavaScript (ES6)
 
 
+=========================================================================================================
 ##🚀 How to Run Locally
 
 1) Clone the repository:
 	git clone https://github.com/harshsinghpujari/rock-paper-scissors.git
 
 
+=========================================================================================================
 ##🙋‍♂️ Author
 
 Harsh Singh
 https://github.com/harshsinghpujari
 
 
+==========================================================================================================
 ##💡 Future Improvements (Optional Ideas)
 
   `  Add icons or images for moves instead of plain text
@@ -90,7 +94,7 @@ https://github.com/harshsinghpujari
 
   `  Make it mobile-responsive
 
-
+===========================================================================================================
 ##⭐ Like This Project?
 
 If this helped you or inspired you, leave a ⭐️ or suggest an improvement!

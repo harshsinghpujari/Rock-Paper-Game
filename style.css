@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+}
+h1{
+  background-color: rgb(12, 12, 45);
+  color: white;
+  height: 5rem;
+  line-height: 5rem;
+  text-align: center;
+}
+
+.choice{
+  width: 165px;
+  height: 165px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img{
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.choice:hover{
+  background-color: black;
+  cursor: pointer;
+}
+
+.choices{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+  gap: 3rem;
+}
+.score-board{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+  gap: 5rem;
+}
+.scores{
+  font-size: 2rem;
+}
+
+#comp-score , #user-score{
+  font-size: 4rem;
+  text-align: center;
+}
+.msg-container{
+  margin-top: 3rem;
+  text-align: center;
+  
+}
+
+#msg{
+ 
+  background-color: rgb(12, 12, 45);
+  font-size: 2rem;
+  color: white;
+  padding: 1rem;
+  border-radius: 1rem;
+  display: inline;
+}
+
+.resetBtnContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
+#resetBtn{
+  font-size: 1.5rem;
+  background-color: rgb(157, 39, 96);
+  color: white;
+  padding: 1rem;
+  border-radius: 2rem;
+  border: none;
+  box-shadow: 0 0 2px 3px rgba(0, 0, 0, 0.017);
+  
+}
+#resetBtn:hover{
+  opacity: 0.8;
+  cursor: pointer;
+
+}
+.small-text{
+  font-size: 1.5rem;
+}

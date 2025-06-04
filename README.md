@@ -57,15 +57,15 @@ const checkWinner = (compMove, userMove) => {
 
   return winMap[userMove] === compMove;
 };
-
+```
 
 ##🛠 Technologies Used
 
-    HTML5
+   ` HTML5
 
-    CSS3
+   ` CSS3
 
-    JavaScript (ES6)
+   ` JavaScript (ES6)
 
 
 ##🚀 How to Run Locally
@@ -82,13 +82,13 @@ https://github.com/harshsinghpujari
 
 ##💡 Future Improvements (Optional Ideas)
 
-    Add icons or images for moves instead of plain text
+  `  Add icons or images for moves instead of plain text
 
-    Add sound effects or animations
+  `  Add sound effects or animations
 
-    Create a "best of 5" or tournament mode
+  `  Create a "best of 5" or tournament mode
 
-    Make it mobile-responsive
+  `  Make it mobile-responsive
 
 
 ##⭐ Like This Project?

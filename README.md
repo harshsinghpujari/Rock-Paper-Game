@@ -59,7 +59,6 @@ const checkWinner = (compMove, userMove) => {
 };
 ```
 
-==========================================================================
 
 ##🛠 Technologies Used
 
@@ -78,26 +77,10 @@ const checkWinner = (compMove, userMove) => {
 	git clone https://github.com/harshsinghpujari/rock-paper-scissors.git
 
 
-============================================================================
+
+
 
 ##🙋‍♂️ Author
 
 Harsh Singh
 https://github.com/harshsinghpujari
-
-
-
-##💡 Future Improvements (Optional Ideas)
-
-  `  Add icons or images for moves instead of plain text
-
-  `  Add sound effects or animations
-
-  `  Create a "best of 5" or tournament mode
-
-  `  Make it mobile-responsive
-
-
-##⭐ Like This Project?
-
-If this helped you or inspired you, leave a ⭐️ or suggest an improvement!

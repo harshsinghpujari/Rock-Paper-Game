@@ -17,7 +17,7 @@ A simple **Rock Paper Scissors** game built using **HTML**, **CSS**, and **Vanil
 
 ## 📸 Screenshot
 
-> _(Add a screenshot of the game interface here, optional)_
+> _()_
 
 ---
 
@@ -82,5 +82,5 @@ const checkWinner = (compMove, userMove) => {
 
 ##🙋‍♂️ Author
 
-Harsh Singh
+Himanshu Singh
 https://github.com/harshsinghpujari
